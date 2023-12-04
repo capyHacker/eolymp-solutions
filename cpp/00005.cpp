@@ -54,4 +54,4 @@ int main() {
     s[49] = 233280; 
     s[50] = 45360; 
     cout<<s[n];
-}
+}//I will add another solution
